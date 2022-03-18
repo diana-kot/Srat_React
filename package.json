@@ -1,6 +1,7 @@
 {
   "name": "marvel-react",
   "version": "0.1.0",
+  "homepage": "https://diana-kot.github.io/Star_React/",
   "private": true,
   "dependencies": {
     "classnames": "^2.3.1",
