@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Star_React/static/css/main.1c1f7c59.css",
+    "main.js": "/Star_React/static/js/main.b6a35140.js",
+    "static/css/895.265f1620.chunk.css": "/Star_React/static/css/895.265f1620.chunk.css",
+    "static/js/895.9a5a3975.chunk.js": "/Star_React/static/js/895.9a5a3975.chunk.js",
+    "static/media/bg.jpg": "/Star_React/static/media/bg.29b25be31315dad3ce4e.jpg",
+    "static/media/falcon.jpg": "/Star_React/static/media/falcon.c1d0a8d1869b3fbdb9ab.jpg",
+    "static/media/han-solo.mp4": "/Star_React/static/media/han-solo.db435084c403f6b37d4d.mp4",
+    "static/media/dark-side.jpg": "/Star_React/static/media/dark-side.e0f8cab78e4bdd7db45d.jpg",
+    "static/media/light-side.jpg": "/Star_React/static/media/light-side.eebc52171cd4ac0278ca.jpg",
+    "static/media/not-found.png": "/Star_React/static/media/not-found.1062f5e41ef989b5973a.png",
+    "static/media/lightsaber.svg": "/Star_React/static/media/lightsaber.eb7d4cd665426117002814db79fceef4.svg",
+    "static/media/space-station.svg": "/Star_React/static/media/space-station.7a027c6ec10ba7b5d8c880df5f4e65ea.svg",
+    "static/media/droid.svg": "/Star_React/static/media/droid.e59cd9ffbca010a59c9af48a5bbbcafb.svg",
+    "static/media/favorite-fill.svg": "/Star_React/static/media/favorite-fill.d5b58d624f6ce4ff685341831ea393de.svg",
+    "static/media/favorite.svg": "/Star_React/static/media/favorite.566cdda1593551eb69c23dd03444c803.svg",
+    "static/media/cancel.svg": "/Star_React/static/media/cancel.00e5d25a4b7fd1eb07bef24013d98bdb.svg",
+    "static/media/bookmark.svg": "/Star_React/static/media/bookmark.b17a5944e1c73a62ecdd574799ffec7c.svg",
+    "static/media/loader-black.svg": "/Star_React/static/media/loader-black.34c09f0bd3b46217edb0fc8e04e0212b.svg",
+    "static/media/loader-blue.svg": "/Star_React/static/media/loader-blue.983ad521541916852c1b591f5f6637ec.svg",
+    "static/media/loader-white.svg": "/Star_React/static/media/loader-white.8d8876f8d64ecb73ff95e26b588f2942.svg",
+    "static/media/back.svg": "/Star_React/static/media/back.3a33cbdb9b2abffedfbb5dd22c0f3ac7.svg",
+    "index.html": "/Star_React/index.html",
+    "main.1c1f7c59.css.map": "/Star_React/static/css/main.1c1f7c59.css.map",
+    "main.b6a35140.js.map": "/Star_React/static/js/main.b6a35140.js.map",
+    "895.265f1620.chunk.css.map": "/Star_React/static/css/895.265f1620.chunk.css.map",
+    "895.9a5a3975.chunk.js.map": "/Star_React/static/js/895.9a5a3975.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c1f7c59.css",
+    "static/js/main.b6a35140.js"
+  ]
+}
