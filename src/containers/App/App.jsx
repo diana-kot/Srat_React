@@ -10,7 +10,6 @@ const App = () => {
     <BrowserRouter basename={`/${REPO_NAME}/`}>
       <div className={styles.wrapper}>
         <Header />
-        <h2>Hello</h2>
         <Routes>
           {routesConfig.map((route, index) => (
             <Route key={index} path={route.path} element={route.element} />
