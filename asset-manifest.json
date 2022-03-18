@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Star_React/static/css/main.1c1f7c59.css",
-    "main.js": "/Star_React/static/js/main.b6a35140.js",
+    "main.js": "/Star_React/static/js/main.f4b7a05e.js",
     "static/css/895.265f1620.chunk.css": "/Star_React/static/css/895.265f1620.chunk.css",
     "static/js/895.9a5a3975.chunk.js": "/Star_React/static/js/895.9a5a3975.chunk.js",
     "static/media/bg.jpg": "/Star_React/static/media/bg.29b25be31315dad3ce4e.jpg",
@@ -23,12 +23,12 @@
     "static/media/back.svg": "/Star_React/static/media/back.3a33cbdb9b2abffedfbb5dd22c0f3ac7.svg",
     "index.html": "/Star_React/index.html",
     "main.1c1f7c59.css.map": "/Star_React/static/css/main.1c1f7c59.css.map",
-    "main.b6a35140.js.map": "/Star_React/static/js/main.b6a35140.js.map",
+    "main.f4b7a05e.js.map": "/Star_React/static/js/main.f4b7a05e.js.map",
     "895.265f1620.chunk.css.map": "/Star_React/static/css/895.265f1620.chunk.css.map",
     "895.9a5a3975.chunk.js.map": "/Star_React/static/js/895.9a5a3975.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c1f7c59.css",
-    "static/js/main.b6a35140.js"
+    "static/js/main.f4b7a05e.js"
   ]
 }
