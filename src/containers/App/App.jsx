@@ -7,7 +7,7 @@ import styles from "./App.module.css";
 
 const App = () => {
   return (
-    <BrowserRouter basename={`/${REPO_NAME}/`}>
+    
       <div className={styles.wrapper}>
         <Header />
         <Routes>
@@ -16,7 +16,7 @@ const App = () => {
           ))}
         </Routes>
       </div>
-    </BrowserRouter>
+   
   );
 };
 
