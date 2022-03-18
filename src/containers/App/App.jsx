@@ -1,25 +1,24 @@
-import { Routes, Route } from 'react-router-dom';
-import Header from '@components/Header';
-import routesConfig from '@routes/routesConfig';
+import {BrowserRouter, Routes, Route } from "react-router-dom";
+import Header from "@components/Header";
+import routesConfig from "@routes/routesConfig";
+import { REPO_NAME } from "@constants/repo";
 
-import styles from './App.module.css';
+import styles from "./App.module.css";
 
 const App = () => {
-    return (
-        <div className={styles.wrapper}>
-            <Header />
-            <h2>Hello</h2>
-            <Routes>
-                {routesConfig.map((route, index) => (
-                    <Route
-                        key={index}
-                        path={route.path}
-                        element={route.element}
-                    />
-                ))}
-            </Routes>
-        </div>
-    )
-}
+  return (
+    <BrowserRouter basename={`/${REPO_NAME}/`}>
+      <div className={styles.wrapper}>
+        <Header />
+        <h2>Hello</h2>
+        <Routes>
+          {routesConfig.map((route, index) => (
+            <Route key={index} path={route.path} element={route.element} />
+          ))}
+        </Routes>
+      </div>
+    </BrowserRouter>
+  );
+};
 
 export default App;
