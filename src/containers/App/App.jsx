@@ -8,6 +8,7 @@ const App = () => {
     return (
         <div className={styles.wrapper}>
             <Header />
+            <h2>Hello</h2>
             <Routes>
                 {routesConfig.map((route, index) => (
                     <Route
